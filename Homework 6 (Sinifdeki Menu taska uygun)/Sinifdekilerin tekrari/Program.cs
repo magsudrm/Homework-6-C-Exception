@@ -40,6 +40,7 @@ namespace Sinifdekilerin_tekrari
             {
                 Console.Write("Notebook name daxil edin: ");
                 string name = Console.ReadLine();
+                name = name.ToLower();
 
                 Console.Write("Notebook price daxil edin: ");
                 int price = converted();
@@ -71,6 +72,7 @@ namespace Sinifdekilerin_tekrari
         {
             CW("Axtarmaq istediyiniz inputu daxil edin");
             string search = Console.ReadLine();
+            search=search.ToLower();
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i].Name.Contains(search))
