@@ -1,0 +1,28 @@
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.exe
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.dll
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.pdb
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.dll
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.pdb
+C:\Users\Maqsud\Desktop\Homeworks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.genruntimeconfig.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\bin\Debug\netcoreapp3.1\Homework 6.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 adi versiya\ConsoleApp1\obj\Debug\netcoreapp3.1\Homework 6.genruntimeconfig.cache

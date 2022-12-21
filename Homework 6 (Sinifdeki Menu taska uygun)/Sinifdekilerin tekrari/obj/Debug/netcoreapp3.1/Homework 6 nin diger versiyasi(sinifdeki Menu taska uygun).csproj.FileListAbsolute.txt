@@ -1,0 +1,28 @@
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).exe
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).dll
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).pdb
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).dll
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).pdb
+C:\Users\Maqsud\Desktop\Homeworks\Sinifdekilerin tekrari\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).genruntimeconfig.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\bin\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 6 (Sinifdeki Menu taska uygun)\Sinifdekilerin tekrari\obj\Debug\netcoreapp3.1\Homework 6 nin diger versiyasi(sinifdeki Menu taska uygun).genruntimeconfig.cache
