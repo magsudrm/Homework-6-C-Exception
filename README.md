@@ -1,1 +1,1 @@
-# Homework-6-C-Exception
+# Esas versiya Sinifdekine uygun olandi
